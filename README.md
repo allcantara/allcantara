@@ -3,8 +3,7 @@
 ### Hi there 👋
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Hi, I'm Bruno! I currently work at <a href="https://izap.com.br/" alt="iZap Softworks">iZap Softworks</a> as a Java Developer using Spring Boot. I live in Belo Horizonte - MG and study Computer Science.
 </p>
 
 <p align="left">
@@ -16,13 +15,19 @@
 </p>
 
 <p align="left">
-  💌 Espero que voce goste do meu perfil! Estou sempre aberto para encarar novos desafios e espero que possamos trabalhar juntos um dia! 🚀🚀🚀
+  💌 Hope you liked my profile! 😁 <br/>I'm always looking for new challenges and I hope we can work together one day! 🚀🚀🚀
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/brunoalcantarajc/" target="_blank" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  🔗 Let's connect!
+</p>
 
-  <a href="https://www.instagram.com/allcantara/" target="_blank" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/brunoalcantarajc/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/allcantara/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/>
+  </a>
 </p>  

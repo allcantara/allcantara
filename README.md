@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  🦄 Languages & Tech's: <strong>Spring Boot, Node.js, React Native.</strong>
+  🦄 Languages & Tech's: <strong>Spring Boot (Java), Node.js (JS & TS), React Native, Hibernate, JPA, Postgres, SQL Server, Liquibase...</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>VSCODE, IntelliJ IDEA, Docker, Docker Compose.</strong>
+  💼 Tools: <strong>VSCODE, IntelliJ IDEA, Docker, Docker Compose, Linux, Git & Github...</strong>
 </p>
 
 <p align="left">

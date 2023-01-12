@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 <p align="left"> 
-  Hi, I'm Bruno! I currently work at <a href="https://izap.com.br/" alt="iZap Softworks">iZap Softworks</a> as a Java Developer using Spring Boot. I live in Belo Horizonte - MG and study Computer Science.
+  Hi, I'm Bruno! I currently work at <a href="https://www.bycoders.com.br/" alt="byCoders">bycoders_</a> as a Java Developer using Spring Boot. I live in Belo Horizonte - MG and study Computer Science.
 </p>
 
 <p align="left">

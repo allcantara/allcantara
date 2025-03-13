@@ -3,15 +3,15 @@
 ### Hi there 👋
 
 <p align="left"> 
-  Hi, I'm Bruno! I currently work at <a href="https://www.bycoders.com.br/" alt="byCoders">bycoders_</a> as a Java Developer using Spring Boot. I live in Belo Horizonte - MG and study Computer Science.
+  Hi, I'm Bruno! I currently work at <a href="https://inter.co/" alt="Banco Inter">Banco Inter</a> as a Java Developer using Spring Boot, Micronaut and Cloud AWS. I live in Belo Horizonte - MG.
 </p>
 
 <p align="left">
-  🦄 Languages & Tech's: <strong>Spring Boot (Java), Node.js (JS & TS), React Native, Hibernate, JPA, Postgres, SQL Server, Liquibase...</strong>
+  🦄 Languages & Tech's: <strong>Spring Boot, Micronaut, Hibernate, JPA, Postgres, SQL Server, IAC, New Relic, AWS, Node.js (JS & TS), React Native,</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>VSCODE, IntelliJ IDEA, Docker, Docker Compose, Linux, Git & Github...</strong>
+  💼 Tools: <strong>VSCODE, IntelliJ IDEA, Docker, Docker Compose, Linux, Macbook, Git & Github...</strong>
 </p>
 
 <p align="left">
